@@ -30,9 +30,6 @@
   <a href="https://www.instagram.com/edimar_sardeiro/" target="_blank">
     <img src="https://raw.githubusercontent.com/edimarjesus/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="facebook.com/edimar.sardeiro" target="_blank">
-    <img src="https://raw.githubusercontent.com/edimarjesus/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
   <a href="mailto:esrj1994@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/edimarjesus/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
